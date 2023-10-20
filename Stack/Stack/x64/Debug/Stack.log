@@ -1,0 +1,3 @@
+﻿  Stack.cpp
+D:\Универ\АиСД\Stack\Stack\Stack.cpp(118,9): warning C4101: index: неиспользованная локальная переменная
+  Stack.vcxproj -> D:\Универ\АиСД\Stack\x64\Debug\Stack.exe
